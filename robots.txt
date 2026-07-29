@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://juanetemii.github.io/aminoes-web/sitemap.xml
